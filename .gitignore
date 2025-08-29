@@ -1,0 +1,6 @@
+**pycache**
+log/
+debug/
+datasets/
+.env
+.env

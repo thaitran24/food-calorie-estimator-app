@@ -1,0 +1,17 @@
+MODEL:
+  MODEL_NAME: gemini 
+  MODEL_ID: gemini-2.5-flash
+  MODEL_KEY: 
+  TEMPERATRUE: 0.0
+  MAX_TOKENS: 
+  SYSTEM_PROMPT: templates/system_prompt.txt
+  TEMPLATE_PROMPT: templates/template_prompt.txt
+  IMAGE_SIZE: 448
+
+DATABASE:
+  HOST:
+  PORT:
+  USERNAME:
+  PASSWORD:
+  AUTH:
+  DB_NAME: calorie_est_log
