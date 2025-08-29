@@ -121,7 +121,7 @@ streamlit run app.py
     - `request_id`: string
     - `image`: base64 image
 - Example curl:
-```json
+```bash
 curl -X 'POST' \
   '<endpoint>/api/predict' \
   -H 'accept: application/json' \
@@ -132,7 +132,7 @@ curl -X 'POST' \
 }'
 ```
 or
-```json
+```bash
 curl -X 'POST' \
   '<endpoint>/api/predict' \
   -H 'accept: application/json' \
