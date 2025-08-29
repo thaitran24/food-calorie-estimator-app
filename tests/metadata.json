@@ -1,0 +1,145 @@
+[
+  {
+    "image_name": "0d0258474903a20af0b59f165e3d.jpeg",
+    "ingredients": [
+      "Yogurt, Greek, whole milk, plain",
+      "Flour, oat",
+      "Flour, whole wheat",
+      "Flour, white, all-purpose",
+      "Baking powder",
+      "Egg, whole, raw",
+      "Vanilla extract",
+      "Milk, whole",
+      "Butter, stick, salted",
+      "Maple syrup"
+    ],
+    "total_calories": 427.5105,
+    "image_path": "SnapME/images/0d0258474903a20af0b59f165e3d.jpeg"
+  },
+  {
+    "image_name": "0f8fe55e45829d17efbdf39ab3fe.jpeg",
+    "ingredients": [
+      "Potato, hash brown, from fast food",
+      "Kale, cooked, from fresh, made with oil",
+      "Egg omelet or scrambled egg, made with oil"
+    ],
+    "total_calories": 323.75,
+    "image_path": "SnapME/images/0f8fe55e45829d17efbdf39ab3fe.jpeg"
+  },
+  {
+    "image_name": "1a8d059b43218c2a2f3d1bf731fc.jpeg",
+    "ingredients": [
+      "Guacamole, NFS",
+      "Chicken breast, sauteed, skin not eaten",
+      "Peppers, green, cooked, made with oil",
+      "Onions, cooked, from fresh, made with oil"
+    ],
+    "total_calories": 378.675,
+    "image_path": "SnapME/images/1a8d059b43218c2a2f3d1bf731fc.jpeg"
+  },
+  {
+    "image_name": "1d80344647e09c3184877db0307a.jpeg",
+    "ingredients": [
+      "Yogurt, Greek, whole milk, plain",
+      "Fruit salad, fresh or raw,  excluding citrus fruits, no dressing"
+    ],
+    "total_calories": 191.875,
+    "image_path": "SnapME/images/1d80344647e09c3184877db0307a.jpeg"
+  },
+  {
+    "image_name": "3db00c144f1eb2bab9f32ea4889e.jpeg",
+    "ingredients": [
+      "Egg, whole, fried with butter",
+      "Bread, whole wheat, toasted",
+      "Butter, stick, salted"
+    ],
+    "total_calories": 381.87,
+    "image_path": "SnapME/images/3db00c144f1eb2bab9f32ea4889e.jpeg"
+  },
+  {
+    "image_name": "4a4a77ef4b928ed82ef3554ec991.jpeg",
+    "ingredients": [
+      "Pasta with tomato-based sauce, home recipe",
+      "Mushrooms, cooked, from fresh, fat not added in cooking",
+      "Butter, stick, unsalted",
+      "Onions, cooked, from fresh, fat not added in cooking",
+      "Garlic, cooked",
+      "Oats, raw",
+      "Cheese, Parmesan, dry grated",
+      "Bread crumbs, plain",
+      "Egg, whole, boiled or poached",
+      "Cheese, Ricotta"
+    ],
+    "total_calories": 442.27819252999996,
+    "image_path": "SnapME/images/4a4a77ef4b928ed82ef3554ec991.jpeg"
+  },
+  {
+    "image_name": "6c0744f74f31ada241c491e2f76d.jpeg",
+    "ingredients": [
+      "Tortilla, flour",
+      "Potato, roasted, from fresh, peel eaten, made with oil",
+      "Mayonnaise, regular",
+      "Salsa, red, commercially-prepared"
+    ],
+    "total_calories": 888.1062499999999,
+    "image_path": "SnapME/images/6c0744f74f31ada241c491e2f76d.jpeg"
+  },
+  {
+    "image_name": "6da2c90b4975b9b6659d26b41f06.jpeg",
+    "ingredients": [
+      "Pasta with tomato-based sauce and meat, ready-to-heat",
+      "Soybean curd, deep fried"
+    ],
+    "total_calories": 325.59000000000003,
+    "image_path": "SnapME/images/6da2c90b4975b9b6659d26b41f06.jpeg"
+  },
+  {
+    "image_name": "bc230e5545828fbe69d241e8bb04.jpeg",
+    "ingredients": [
+      "Turkey, ground",
+      "Broccoli, cooked, from fresh, made with butter",
+      "Peppers, green, cooked, made with butter",
+      "Spinach, raw",
+      "Soup, mostly noodles"
+    ],
+    "total_calories": 434.84,
+    "image_path": "SnapME/images/bc230e5545828fbe69d241e8bb04.jpeg"
+  },
+  {
+    "image_name": "bdf94fa648daa983f21b7bad616f.jpeg",
+    "ingredients": [
+      "Soft taco with meat",
+      "Chicken \"wings\" with hot sauce, from fast food / restaurant",
+      "Creamy dressing",
+      "Nachos with chicken, cheese, and sour cream",
+      "Guacamole with tomatoes"
+    ],
+    "total_calories": 797.2,
+    "image_path": "SnapME/images/bdf94fa648daa983f21b7bad616f.jpeg"
+  },
+  {
+    "image_name": "dish_42_IMG_6264_jpeg.rf.56d94714091671bd728c22595ae75056.jpg",
+    "dish_id": 42,
+    "ingredients": [
+      "chicken-leg",
+      "cucumber-piece",
+      "chicken-wing"
+    ],
+    "total_calories": 708.84,
+    "image_path": "NutritionVerse/images/dish_42_IMG_6264_jpeg.rf.56d94714091671bd728c22595ae75056.jpg"
+  },
+  {
+    "image_name": "fb4dd9584260b1d9323cc2d397ea.jpeg",
+    "ingredients": [
+      "Egg omelet or scrambled egg, made with butter",
+      "Pork bacon, NS as to fresh, smoked or cured, cooked",
+      "Waffle, fruit",
+      "Cilantro, raw",
+      "Queso Fresco",
+      "Salsa, red, commercially-prepared",
+      "Maple and corn and/or cane pancake syrup blends"
+    ],
+    "total_calories": 736.3376875,
+    "image_path": "SnapME/images/fb4dd9584260b1d9323cc2d397ea.jpeg"
+  }
+]
