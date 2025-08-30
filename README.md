@@ -200,3 +200,6 @@ We can try enhance the prompt with chain of prompts:
 2. Store the ingredients information: `name`, `calories` in a vector database.
 3. When receive the image of the meal, design the prompt to guide the model to extract ingredients name, mass and units.
 4. Query to database to get related information on their calories and add to the second prompt for the model to re-calculate the total calories.  
+
+### ChatGPT God Mode?
+Check for prompt like: `You are an expert in ...`. Example: [ChatGPT God Mode](https://www.linkedin.com/pulse/how-use-god-mode-chatgpt-unlocking-advanced-andreas-michaelides-phd-kavve/)
