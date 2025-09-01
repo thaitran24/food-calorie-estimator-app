@@ -203,3 +203,26 @@ We can try enhance the prompt with chain of prompts:
 
 ### ChatGPT God Mode?
 Check for prompt like: `You are an expert in ...`. Example: [ChatGPT God Mode](https://www.linkedin.com/pulse/how-use-god-mode-chatgpt-unlocking-advanced-andreas-michaelides-phd-kavve/)
+
+### ReAct
+Following the paradigm of ReAct (Though, Action, Observation) to use external tools like Database Query or External Model. Example:
+```
+Thought 1: Tôi cần biết đây là món gì từ ảnh.
+Action 1: ImageClassifier(photo.jpg) # Or ask the model to classify, instead of training new model
+Observation 1: Phở bò.
+
+Thought 2: Tôi cần tìm thành phần chính của phở bò.
+Action 2: QueryNutritionDB("phở bò ingredients")
+Observation 2: [bánh phở, thịt bò, nước dùng, rau]
+
+Thought 3: Tôi cần biết khối lượng ước lượng trong ảnh.
+Action 3: PortionEstimator(photo.jpg) # Or ask the model to estimate
+Observation 3: 200g bánh phở, 100g thịt bò, 50ml nước dùng.
+
+Thought 4: Tôi cần tính calo từ khối lượng và nutrition DB.
+Action 4: QueryNutritionDB("200g bánh phở + 100g thịt bò + 50ml nước dùng")
+Observation 4: 530 cal.
+
+Thought 5: Giờ tôi có thể trả lời.
+Final Answer: Khoảng 530 calories.
+``` 
